@@ -1,0 +1,1 @@
+This repo contains any code to be downloaded onto a STM32F407G-DISC1 board. The code is originally written in STM32CUBE IDE. 
